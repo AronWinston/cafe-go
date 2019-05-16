@@ -1,12 +1,13 @@
 .App{
   text-align: center;
   background-color: #ccc;
-  height: 1000px;
+  
 }
 
 h1{
   font-size: 24px;
   text-align: center;
+  color: brown;
  
   /* margin: 10px 10px; */
 }
